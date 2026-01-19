@@ -41,7 +41,7 @@ Kodu kopyala
 
 ## Nasıl Çalıştırılır?
 1. Repoyu klonla:
-git clone https://github.com/altanaral2135/hackathon_aral.git
+git clone https://github.com/altanaral2135-png/hackathon_aral.git
 
 yaml
 Kodu kopyala
